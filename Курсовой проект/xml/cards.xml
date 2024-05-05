@@ -1,0 +1,62 @@
+<cards>
+    <card>
+        <image>../img/Screenshot_1.png</image>
+        <description>Букет с желтой хризантемой</description>
+        <cost>95 BYN</cost>
+    </card>
+    <card>
+        <image>../img/Screenshot_2.png</image>
+        <description>Букет с портеей</description>
+        <cost>127 BYN</cost>
+    </card>
+    <card>
+        <image>../img/Screenshot_3.png</image>
+        <description>Букет с каллой</description>
+        <cost>96 BYN</cost>
+    </card>
+    <card>
+        <image>../img/Screenshot_4.png</image>
+        <description>Букет с эвкалиптом</description>
+        <cost>99 BYN</cost>
+    </card>
+    <card>
+        <image>../img/Screenshot_5.png</image>
+        <description>Букет с тюльпанами</description>
+        <cost>88 BYN</cost>
+    </card>
+    <card>
+        <image>../img/Screenshot_6.png</image>
+        <description>Букет с портеей артишковой</description>
+        <cost>125 BYN</cost>
+    </card>
+    <card>
+        <image>../img/Screenshot_7.png</image>
+        <description>Букет с анемоной</description>
+        <cost>105 BYN</cost>
+    </card>
+    <card>
+        <image>../img/Screenshot_8.png</image>
+        <description>Букет с лилией</description>
+        <cost>97 BYN</cost>
+    </card>
+    <card>
+        <image>../img/Screenshot_9.png</image>
+        <description>Букет с чайной розой</description>
+        <cost>90 BYN</cost>
+    </card>
+    <card>
+        <image>../img/Screenshot_10.png</image>
+        <description>Букет с белой хризантемой</description>
+        <cost>95 BYN</cost>
+    </card>
+    <card>
+        <image>../img/Screenshot_11.png</image>
+        <description>Букет с розой флорибундой</description>
+        <cost>100 BYN</cost>
+    </card>
+    <card>
+        <image>../img/Screenshot_12.png</image>
+        <description>Букет с белой розой</description>
+        <cost>99 BYN</cost>
+    </card>
+</cards>
